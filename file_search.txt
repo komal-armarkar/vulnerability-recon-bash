@@ -1,0 +1,11 @@
+# Google Dork to be searched with the help of bash script : Google_dork_search.sh
+# The Google Dorks can be added or subtracted from the file 
+# for example below are some "Remote File Inclusion (RFI)" and "Local File Inclusion (LFI)" Dorks 
+#########################################################################################################################
+#########################################################################################################################
+inurl:/modules/mod_mainmenu.php?mosConfig_absolute_path=
+inurl:/include/new-visitor.inc.php?lvc_include_dir=
+inurl:/_functions.php?prefix=
+inurl:/cpcommerce/_functions.php?prefix=
+inurl:/modules/coppermine/themes/default/theme.php?THEME_DIR=
+inurl:/modules/agendax/addevent.inc.php?agendax_path=
